@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de programação na área de<br>Frontend. Atualmente trabalho em freelance.<br>Estou a procura de qualquer projeto nessa área.
+Sou estudante de programação.
 
 
 ## 🌐 Socials:
