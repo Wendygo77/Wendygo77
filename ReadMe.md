@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dev junior  - FrontEnd
+Dev junior  - Full-stake
 
 
 ## 🌐 Socials:
